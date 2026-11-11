@@ -25,7 +25,9 @@ Il faut le **.NET 8 Desktop Runtime** (x64), gratuit chez Microsoft : https://do
 - **Carte graphique** AMD, NVIDIA ou Intel pour encoder : presque aucun effet sur tes FPS.
 - **Son du PC et micro**, calés sur l'image.
 - **Bibliothèque** avec miniatures, filtres par jeu, recherche et lecteur.
-- **Découpe** précise, **export Discord** (10, 50 ou 500 Mo) copié prêt à coller, renommer, supprimer.
+- **Partage Discord** : connecte ton compte, choisis un salon, et un clic y envoie le clip à ton nom (version légère
+  automatique au-delà de 10 Mo).
+- **Découpe** précise, **export Discord** (10, 50 ou 500 Mo), renommer, **supprimer** (un clip ou plusieurs d'un coup).
 - Bulle « Clip enregistré » en jeu (invisible dans les vidéos) et petit son de confirmation.
 - Raccourcis au clavier ou aux **boutons de souris**, qui marchent en plein jeu.
 - Reste à côté de l'horloge, peut se lancer avec Windows.
@@ -35,7 +37,8 @@ Il faut le **.NET 8 Desktop Runtime** (x64), gratuit chez Microsoft : https://do
 XDK Clips est **gratuit** (petit filigrane « XDK Clips », clips jusqu'à 1 min, 60 i/s, 1080p).
 
 **XDK Clips Premium** débloque tout : **sans filigrane**, clips de **2 et 5 min**, qualité **Max**, **120 / 144 i/s**,
-HEVC, **1440p et 4K**, **ton son de clip** et **ton logo** sur tes vidéos, badge Premium.
+HEVC, **1440p et 4K**, export **TikTok / Shorts** (vertical), **ralenti**, **GIF**, **texte sur la vidéo**, clip qui garde
+aussi les secondes **après l'appui**, **ton son de clip** et **ton logo** sur tes vidéos, badge Premium.
 
 1. Dans XDK Clips, ouvre **Réglages › Premium** et copie le **code de ton PC**.
 2. Rejoins le **Discord XDK TEAM DEV** : https://discord.gg/zEC35KSuxt, catégorie 🎬 XDK CLIPS, salon
